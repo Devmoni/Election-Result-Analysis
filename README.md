@@ -15,7 +15,7 @@ The Legislative Election Results 2020 SQL project is aimed at exploring and unde
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Devmoni
+   https://github.com/Devmoni/Election-Result-Analysis.git
 
 ## Database Schema
 
